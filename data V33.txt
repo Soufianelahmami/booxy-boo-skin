@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"One of the primary reasons for Booxy Boo's rapid success is its user-friendly interface. The application is designed to be intuitive, ensuring that users can navigate through the platform effortlessly.","photo2":"https://iili.io/Hgvcg4V.jpg"},
+  {"desc3":" With a clean and visually appealing layout, Booxy Boo presents a seamless experience for users of all ages, making it accessible to a wide audience.","photo3":"https://iili.io/Hgvc6YP.jpg"},
+  {"desc4":"Privacy concerns have been at the forefront of social networking platforms in recent years. ","photo4":"https://iili.io/Hgvc43B.jpg"},
+  {"desc5":" Booxy Boo addresses these concerns by providing advanced privacy settings that empower users to have control over their data. ","photo5":"https://iili.io/HgvcPv1.webp"},
+  {"descd":"Users can customize their privacy preferences, determining who can view their profile, posts, and personal information. ","photod":"https://iili.io/HgvcLTg.jpg"}
    ]
  
 }
