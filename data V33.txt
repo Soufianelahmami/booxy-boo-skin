@@ -7,10 +7,10 @@
 "unity_gameid":"5082535",
  
 
-"facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
-"facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
-"facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
-"facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
+"facebook_inter":"765930695116557_766369551739338",
+"facebook_banner":"765930695116557_766369381739355",
+"facebook_native":"765930695116557_766369428406017",
+"facebook_reward":"765930695116557_765931521783141",
   
 
 "admob_inter":"ca-app-pub-3940256099942544/1033173712",
@@ -40,7 +40,7 @@
 "banner_network_choice":"vungle", 
 "interstisial_network_choice":"vungle", 
 "reward_network_choice":"vungle",
-"native_network_choice":"admob"
+"native_network_choice":"facebook"
   
 
 },
